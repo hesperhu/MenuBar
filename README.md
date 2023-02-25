@@ -79,7 +79,7 @@ struct MenuBarApp: App {
 
 # 效果
 
-![](media/hsw_2023-02-23_16.06.53.png)
+![](media/hsw.png)
 
 
 
