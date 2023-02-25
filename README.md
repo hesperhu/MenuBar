@@ -79,7 +79,7 @@ struct MenuBarApp: App {
 
 # 效果
 
-[](media/hsw.png)
+![](hsw.png)
 
 
 
