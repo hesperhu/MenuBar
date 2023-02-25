@@ -83,6 +83,7 @@ struct MenuBarApp: App {
 
 
 
+
 [^1]: [kyan_bar/MainMenu.swift at master · kyan/kyan_bar](https://github.com/kyan/kyan_bar/blob/master/KyanBar/MainMenu.swift)
 [^2]: [Building a macOS Menu Bar App - The Dad Jokes Series (Part 1) - YouTube](https://www.youtube.com/watch?v=CuMLpnjPr2Y)
 [^3]: [MenuBar/AppMenuBar.swift at main · hesperhu/MenuBar](https://github.com/hesperhu/MenuBar/blob/main/MenuBar/AppMenuBar.swift)
