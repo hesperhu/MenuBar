@@ -42,6 +42,8 @@
 		2A8372E029A74605008B2524 = {
 			isa = PBXGroup;
 			children = (
+				2A35F73E29A99E7B005A7EC6 /* README.md */,
+				2A35F74029A99ED2005A7EC6 /* media */,
 				2A8372EB29A74605008B2524 /* MenuBar */,
 				2A8372EA29A74605008B2524 /* Products */,
 			);
@@ -58,8 +60,6 @@
 		2A8372EB29A74605008B2524 /* MenuBar */ = {
 			isa = PBXGroup;
 			children = (
-				2A35F74029A99ED2005A7EC6 /* media */,
-				2A35F73E29A99E7B005A7EC6 /* README.md */,
 				2A8372EC29A74605008B2524 /* MenuBarApp.swift */,
 				2A8372FD29A74B1E008B2524 /* AppDelegate.swift */,
 				2A8372FB29A74971008B2524 /* AppMenuBar.swift */,
